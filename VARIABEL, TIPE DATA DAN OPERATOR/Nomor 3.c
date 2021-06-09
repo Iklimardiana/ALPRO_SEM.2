@@ -1,5 +1,4 @@
 /*
-	File: penjumlahan kode ASCII.c 
 	Author 		: Iklima Mardiana
 	Email 		: 11iklimardiana9@upi.edu
 	Deskripsi 	: program penjumlahan kode ASCII
